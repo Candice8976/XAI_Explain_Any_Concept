@@ -1,5 +1,7 @@
 # XAI_Explain_Any_Concept
 
+## Note reçue : 17/20.
+
 ## Introduction
 
 Les réseaux de neurones profonds (DNN) sont performants en vision par ordinateur mais restent opaques, ce qui limite leur utilisation dans des domaines sensibles. Pour rendre leurs décisions plus transparentes, l’Explainable AI (XAI) s’appuie souvent sur des explications au niveau des pixels, qui manquent de fidélité et sont difficiles à comprendre.
