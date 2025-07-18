@@ -1,6 +1,6 @@
 # XAI_Explain_Any_Concept
 
-## Note reçue : 17/20.
+## Note reçue : 17/20
 
 ## Introduction
 
